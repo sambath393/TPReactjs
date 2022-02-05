@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## List of ingredian
+
+- Context Api
+- React i18next [https://react.i18next.com/]
+- React router [https://reactrouter.com/]
+- Flag component [https://www.npmjs.com/package/react-world-flags]
