@@ -1,18 +1,20 @@
 import { Route, Routes } from 'react-router-dom';
 import Provider from './context/provider';
 import HomeScreen from './pages/homeScreen';
+import Navbar from './routes/navbar';
 import './static/App.css';
 
 function App() {
 
   return (
-    <div className="App">
-      <Provider>
+    <Provider>
+      <div className="App">
+        <Navbar />
         <Routes>
           <Route path="/" element={<HomeScreen />} />
         </Routes>
-      </Provider>
-    </div>
+      </div>
+    </Provider>
   );
 }
 
