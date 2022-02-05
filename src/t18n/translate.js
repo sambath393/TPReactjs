@@ -3,7 +3,6 @@ import { initReactI18next } from 'react-i18next';
 
 const en = require("./data/en.json")
 
-
 i18n.use(initReactI18next) // passes i18n down to react-i18next
     .init({
         // the translations
@@ -24,6 +23,7 @@ i18n.use(initReactI18next) // passes i18n down to react-i18next
 
 export default i18n;
 
+// change langauge function
 export const changeLanguage = (code) => {
     return i18n.changeLanguage(code)
 }
