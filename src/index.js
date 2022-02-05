@@ -4,10 +4,7 @@ import './static/index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
-import translate from './t18n/translate';
-
-// intialize translate from t18n 
-translate();
+import './t18n/translate'
 
 ReactDOM.render(
   <BrowserRouter>
