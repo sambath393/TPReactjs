@@ -16,6 +16,62 @@ After clone project just run this code to get node_modules
 - React to print [https://github.com/gregnb/react-to-print](https://github.com/gregnb/react-to-print)
 - React to CSV [https://www.cluemediator.com/export-data-to-csv-in-react#iltdcf](https://www.cluemediator.com/export-data-to-csv-in-react#iltdcf)
 
+## Strature folder
+
+### Main folder
+
+|   Project
+    |   public
+    |   src
+
+### Source folder
+
+|   src
+    |   api
+    |   assets
+    |   components
+    |   context
+    |   fonts
+    |   lib
+    |   pages
+    |   routes
+    |   static
+    |   t18n
+    |   utils
+
+### Components folder
+
+|   components
+    |   home
+    |   ...
+
+### Context folder
+
+|   context
+    |   provider
+    |   reducer
+
+### Fonts folder
+
+|   fonts
+    |   consolas
+    |   ...
+
+### Library folder
+
+### Pages folder
+
+### Routes folder
+
+### Static folder
+
+### t18Next folder
+
+|   t18n
+    |   resources
+
+### Utils folder
+
 ## Custom components
 
 ### `Dot-Print`
