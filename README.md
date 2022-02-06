@@ -18,6 +18,6 @@ After clone project just run this code to get node_modules
 
 ## Custom components
 
-### Dot-Print
+### `Dot-Print`
 
 This component created for print receipt or invoice by size of paper. It worked with react-to-print.
