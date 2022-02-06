@@ -82,9 +82,9 @@ After clone project just run this code to get node_modules
     |   resources
 ```
 
-### Utils folder
+### Utils folder -->
 
-## Custom components -->
+## Custom components
 
 ### `Dot-Print`
 
