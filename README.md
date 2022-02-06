@@ -20,9 +20,11 @@ After clone project just run this code to get node_modules
 
 ### Main folder
 
->   Project
-    >   public
-    >   src
+```
+|   Project
+    |   public
+    |   src
+```
 
 ### Source folder
 
