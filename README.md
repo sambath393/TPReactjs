@@ -15,3 +15,9 @@ After clone project just run this code to get node_modules
 - Flag component [https://www.npmjs.com/package/react-world-flags](https://www.npmjs.com/package/react-world-flags)
 - React to print [https://github.com/gregnb/react-to-print](https://github.com/gregnb/react-to-print)
 - React to CSV [https://www.cluemediator.com/export-data-to-csv-in-react#iltdcf](https://www.cluemediator.com/export-data-to-csv-in-react#iltdcf)
+
+## Custom components
+
+### Dot-Print
+
+This component created for print receipt or invoice by size of paper. It worked with react-to-print.
