@@ -28,6 +28,7 @@ After clone project just run this code to get node_modules
 
 ### Source folder
 
+```
 |   src
     |   api
     |   assets
@@ -40,24 +41,31 @@ After clone project just run this code to get node_modules
     |   static
     |   t18n
     |   utils
+```
 
 ### Components folder
 
+```
 |   components
     |   home
     |   ...
+```
 
 ### Context folder
 
+```
 |   context
     |   provider
     |   reducer
+```
 
 ### Fonts folder
 
+```
 |   fonts
     |   consolas
     |   ...
+```
 
 ### Library folder
 
@@ -69,8 +77,10 @@ After clone project just run this code to get node_modules
 
 ### t18Next folder
 
+```
 |   t18n
     |   resources
+```
 
 ### Utils folder
 
