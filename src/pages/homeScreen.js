@@ -6,7 +6,7 @@ export default function HomeScreen() {
 
   return <div>
     <h1>{t("dashboard.welcome")}</h1>
-    <h1 class="text-3xl font-bold underline">
+    <h1 class="text-3xl font-bold text-blue-400 underline">
       Hello world!
     </h1>
   </div>;
