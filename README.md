@@ -89,3 +89,7 @@ After clone project just run this code to get node_modules
 ### `Dot-Print`
 
 This component created for print receipt or invoice by size of paper. It worked with react-to-print.
+
+## Power by
+
+[https://codedoto.com](https://codedoto.com)
