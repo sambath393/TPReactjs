@@ -1,7 +1,6 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
-
-const en = require("./resources/en.json")
+import { en } from '../locales'
 
 i18n.use(initReactI18next) // passes i18n down to react-i18next
     .init({

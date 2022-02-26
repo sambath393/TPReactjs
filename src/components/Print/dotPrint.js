@@ -179,7 +179,7 @@ const NormalBody = ({ paperStyle, data, itemLimit, page }) => {
                                 <tr
                                     key={index}
                                 >
-                                    <td>{index+1}</td>
+                                    <td>{index + 1}</td>
                                     <td>{load.id}</td>
                                     <td>{load.dsp}</td>
                                 </tr>

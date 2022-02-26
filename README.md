@@ -15,6 +15,7 @@ After clone project just run this code to get node_modules
 - Flag component [https://www.npmjs.com/package/react-world-flags](https://www.npmjs.com/package/react-world-flags)
 - React to print [https://github.com/gregnb/react-to-print](https://github.com/gregnb/react-to-print)
 - React to CSV [https://www.cluemediator.com/export-data-to-csv-in-react#iltdcf](https://www.cluemediator.com/export-data-to-csv-in-react#iltdcf)
+- Tailwind CSS [https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
 
 <!-- ## Strature folder
 
